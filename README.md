@@ -22,10 +22,13 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 # Exemplos de telas
 
 ## Tela INICIAL
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-index.jpeg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves/blob/main/test-screens/tela-inicial.jpg" />
 
-## Tela TRAILLERS
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-traillers.jpg" />
+## Tela JOGO
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves/blob/main/test-screens/tela-jogo.jpg" />
 
-## Tela MAIS INFORMAÇÕES
-<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto02/blob/main/tela-info.jpg" />
+## Tela PONTUAÇÃO
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves/blob/main/test-screens/tela-pontos.jpg" />
+
+## Tela GAME OVER
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Naves/blob/main/test-screens/tela-game-over.jpg" />
